@@ -1,6 +1,9 @@
 # ScreenTime
 
 Projeto em Java que simula o tempo de uso de aplicativos.
+## 📸 Demonstração
+
+![Preview do sistema](SaidaApp.png)
 
 ## 📌 Funcionalidades
 - Cadastro de uso de aplicativos
